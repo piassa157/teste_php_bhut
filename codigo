@@ -1,0 +1,32 @@
+<?php
+public class contaNum {
+    $num  = 0;
+
+    public function somatres () {   
+        for($num = 1; $num <= 100; $num++)
+        {
+            
+
+            if($num % 3 == 0)
+            {
+                print_r("BHUT");
+            }
+
+            elseif($num % 5 == 0)
+            {
+                print_r("IT");
+            }
+ 
+           elseif ($num % 5 == 0) and ($num % 3 == 0)
+           {
+                print_r("BHUT IT");
+           }
+
+           print_r($num);
+       }
+    
+    }
+ 
+}
+
+?>
