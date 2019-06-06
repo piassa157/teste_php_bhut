@@ -9,4 +9,4 @@ Portugues:
   Se houver melhorias ou defeito, não deixe de adicionar ou comentar
     Esse foi meu primeiro teste de php online ( processo seletivo / analise de conhecimento)
     
-Não perca a esperança me tornarei um grande engenheiro de software.
+Não perca a esperança irei me tornar um grande engenheiro de software.
